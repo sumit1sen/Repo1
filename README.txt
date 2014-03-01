@@ -1,0 +1,1 @@
+This repository is my first GitHub repository and doesn't belong to a defined project.
